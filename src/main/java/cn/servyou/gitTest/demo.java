@@ -8,6 +8,7 @@ public class demo {
     public Object Test01 (){
         int a = 1;
         int b = 2;
+        int c = 3;
         return  null;
     }
 
