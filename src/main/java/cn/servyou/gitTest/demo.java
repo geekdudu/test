@@ -7,6 +7,7 @@ public class demo {
     @Test
     public Object Test01 (){
         int a = 1;
+        int b = 2;
         return  null;
     }
 
